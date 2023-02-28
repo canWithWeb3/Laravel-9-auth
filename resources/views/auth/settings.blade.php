@@ -1,0 +1,2 @@
+settings
+{{ Auth::user()->email }}
